@@ -1,8 +1,12 @@
+/*aqui estão os eventos a serem realizados pela extenssão,
+* onde ele fica escutando a ação do botão, e quando o mesmo é acionado
+* ela chama a página de ação*/
 chrome.runtime.onInstalled.addListener(function() {
   chrome.declarativeContent.onPageChanged.removeRules(undefined, function() {
       chrome.declarativeContent.onPageChanged.addRules([{
         conditions: [new chrome.declarativeContent.PageStateMatcher({
-          //pageUrl: {hostEquals: 'www.globo.com'},
+          /*Aqui podem ser adicionadas condições para que a extenssão seja
+          * ativada*/
         })
         ],
             actions: [new chrome.declarativeContent.ShowPageAction()]

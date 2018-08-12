@@ -1,3 +1,6 @@
+/*
+*manifesto, onde ficam localizadas todas as permições de acesso
+*além do nome da extenssão e do seu icone*/
 {
    "name": "Nemly",
    "version": "0.1",

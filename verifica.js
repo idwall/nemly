@@ -1,3 +1,6 @@
+/*Os termos estão setados aqui, porém em futura atualização os mesmos estarão
+inseridos em um arquivo Json */
+
 var total = [
 "Conteúdo",
 "Configurações de anúncios",
@@ -56,6 +59,8 @@ var total = [
 "sem aviso prévio"];
 
 
+/*função que troca as palabras por uma marcação deixando em evidência
+*além de inserir uma div para futura localização*/
 for (i = 0; i < total.length; i++) {
     console.log(total[i]);
     document.body.innerHTML = document.body.innerHTML.split(total[i]).join('<div style="display: inline;" id="'+i+'"><mark style="background-color: yellow;color:black">'+total[i]+'</mark></div>');
