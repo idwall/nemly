@@ -7,8 +7,7 @@
    "description": "Leitor de termos de contrato",
    "permissions": ["activeTab","declarativeContent","storage"],
    "background": {
-     "scripts": ["background.js"],
-     "persistent": false
+     "scripts": ["background.js"]
    },
    "page_action": {
       "default_title": "NemLy",

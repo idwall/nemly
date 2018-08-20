@@ -59,9 +59,28 @@ var total = [
 "sem aviso prévio"];
 
 
-/*função que troca as palabras por uma marcação deixando em evidência
+/*função que troca as palavras por uma marcação deixando em evidência
 *além de inserir uma div para futura localização*/
+var match = 0;
+var teste = total;
 for (i = 0; i < total.length; i++) {
-    console.log(total[i]);
     document.body.innerHTML = document.body.innerHTML.split(total[i]).join('<div style="display: inline;" id="'+i+'"><mark style="background-color: yellow;color:black">'+total[i]+'</mark></div>');
+    if(document.body.innerHTML == document.body.innerHTML.split(total[i])){
+      match ++;
+      teste[i] = teste[i] - total[i];
+    }//match ++ ;
+}
+if(match != 0){
+  var match =  total.length - match;
+  console.log('Foram encontradas '+match+' correspondências');
+  for (i = 0; i < total.length; i++) {
+        console.log('!!!!!!!!!! '+teste[i]+' ----->');
+        if (!!teste[i]){
+          chrome.runtime.sendMessage(teste[i]);
+        }
+
+  }
+
+
+  chrome.runtime.sendMessage('Foram encontradas '+match+' correspondências');
 }
