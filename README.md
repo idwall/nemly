@@ -1,4 +1,5 @@
 <p align="center">
+
   <a href="https://wwww.idwall.co/">
     <img src="https://idwall.co/img/favicon/ms-icon-144x144.png" alt="Nemly logo" width=72 height=72>
   </a>
@@ -33,13 +34,15 @@
 
 ## Introdução
 
-Qual foi a ultima vez que você leu os Termos e Condições de uso de um serviço antes de começar a usá-lo? Esses termos são extremamente longos e muitas vezes complicados de entender, por isso normalmente é muito mais fácil ACEITAR sem ao menos ler.
-Nemly encontra palavras chaves relacionadas a privadade e proteção de dados e as destaca, enumera e categoriza para que você possa ler diretamente aquelas cláusulas chaves que você deveria ao menos conhecer antes de simplesmente aceitá-las.
+Quando foi a última vez que você leu os **Termos e Condições de Uso** de um serviço antes de começar a usá-lo? Esses Termos são extremamente longos e muitas vezes complicados de entender, por isso normalmente a maioria das pessoas **aceita sem ler**. Isso é um grande problema, pois muitas vezes esses Termos possuem **cláusulas danosas** aos usuários. Nemly encontra palavras chaves relacionadas a **privacidade e proteção de dados** e as **destaca, enumera e categoriza** para que você possa ler diretamente aquelas cláusulas chaves que você deveria ao menos conhecer antes de simplesmente aceitá-las.
 
 ## Desenvolvimento
 
 ### v0.1
-Encontra palavras chaves e quantifica a
+Encontra palavras chaves e quantifica as ocorrências das mesmas no Termo de Uso que está sendo analisado.
+
+### v0.2
+Melhorias de interface e estruturação do código.
 
 ## Modo de uso
 
@@ -47,7 +50,11 @@ Baixe e instale o plugin Nemly. Abra a página dos Termos e Condições de uso q
 Nemly irá analisar a página e indicar os pontos de atenção.
 
 ## Bug ou novas funcionalidades
-Encontrou um bug ou tem uma sugestão de novas funcionalidades? Por favor procure se já existe um issue sobre isso em [issues](https://github.com/idwall/Nemly/issues). Se o seu problema ou nova idéia ainda não foi tratada por favor [abra um novo issue](https://github.com/idwall/Nemly/issues/new).
+
+Encontrou um bug ou tem uma sugestão de novas funcionalidades? Em [issues](https://github.com/idwall/Nemly/issues) temos uma lista de tópicos que podem contemplar seu problema ou nova ideia. Se sua questão ainda não foi tratada, por favor [abra um novo issue](https://github.com/idwall/Nemly/issues/new) e a comunidade irá se esforçar para executar as mudanças necessárias.
 
 ## Criadores
+
 A IDWall tem como missão resolver a falta de confiança e credibilidade na era digital, dando autonomia para que as empresas aceitem mais clientes, sem ocorrência de fraudes. Entre as soluções oferecidas para o mercado, estão a verificação de identidade, autenticação de documentos e KYC / AML.
+
+https://twitter.com/idwall_co
