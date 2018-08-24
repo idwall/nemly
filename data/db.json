@@ -1,334 +1,276 @@
-{
-  "data": [
-    { 
-      "id": 1, 
-      "word": "Conteúdo", 
-      "topic": "",
-      "relevance": 0.1
-    },
-    { 
-      "id": 2, 
-      "word": "Configurações de anúncios",
-      "topic": "",
-      "relevance": 0.2
-    },
-    { 
-      "id": 3, 
-      "word": "Foro",
-      "topic": "",
-      "relevance": 0.3
-    },
-    { 
-      "id": 4, 
-      "word": "Exclusivo Proprietário",
-      "topic": "",
-      "relevance": 0.4
-    },
-    { 
-      "id": 5, 
-      "word": "Sua conta e risco exclusivo",
-      "topic": "",
-      "relevance": 0.5 
-    },
-    { 
-      "id": 6, 
-      "word": "Você concorda que",
-      "topic": "",
-      "relevance": 0.6 
-    },
-    { 
-      "id": 7, 
-      "word": "Serão de sua responsabilidade",
-      "topic": "",
-      "relevance": 0.7
-    },
-    { 
-      "id": 8, 
-      "word": "A qualquer momento",
-      "topic": "",
-      "relevance": 0.8 
-    },
-    { 
-      "id": 9, 
-      "word": "Reserva o Direito",
-      "topic": "",
-      "relevance": 0.9 
-    },
-    { 
-      "id": 10, 
-      "word": "Aviso prévio",
-      "topic": "",
-      "relevance": 1 
-    },
-    { 
-      "id": 11, 
-      "word": "Ciente",
-      "topic": "",
-      "relevance": 0.9 
-    },
-    { 
-      "id": 12, 
-      "word": "Permanece",
-      "topic": "",
-      "relevance": 0.8 
-    },
-    { 
-      "id": 13, 
-      "word": "Conduta",
-      "topic": "",
-      "relevance": 0.7 
-    },
-    { 
-      "id": 14, 
-      "word": "Responsável",
-      "topic": "",
-      "relevance": 0.6 
-    },
-    { 
-      "id": 15, 
-      "word": "Não será responsável",
-      "topic": "",
-      "relevance": 0.5 
-    },
-    { 
-      "id": 16, 
-      "word": "Responderá",
-      "topic": "",
-      "relevance": 0.4 
-    },
-    { 
-      "id": 17, 
-      "word": "Obrigada",
-      "topic": "",
-      "relevance": 0.3 
-    },
-    { 
-      "id": 18, 
-      "word": "Você reembolsará",
-      "topic": "",
-      "relevance": 0.2 
-    },
-    { 
-      "id": 19, 
-      "word": "Taxas e encargos",
-      "topic": "",
-      "relevance": 0.1 
-    },
-    { 
-      "id": 20, 
-      "word": "Cobrados",
-      "topic": "",
-      "relevance": 0 
-    },
-    { 
-      "id": 21, 
-      "word": "Cobrança",
-      "topic": "",
-      "relevance": 0.1 
-    },
-    { 
-      "id": 22, 
-      "word": "Valores adicionais",
-      "topic": "",
-      "relevance": 0.2 
-    },
-    { 
-      "id": 23, 
-      "word": "Indenização",
-      "topic": "",
-      "relevance": 0.3 
-    },
-    { 
-      "id": 24, 
-      "word": "Não reembolsável",
-      "topic": "",
-      "relevance": 0.4 
-    },
-    { 
-      "id": 25, 
-      "word": "Método secundário de cobrança",
-      "topic": "",
-      "relevance": 0.5 
-    },
-    { 
-      "id": 26, 
-      "word": "Certificação Privacy Shield",
-      "topic": "",
-      "relevance": 0.6 
-    },
-    { 
-      "id": 27, 
-      "word": "Privacidade",
-      "topic": "",
-      "relevance": 0.7 
-    },
-    { 
-      "id": 28, 
-      "word": "Você fornece",
-      "topic": "",
-      "relevance": 0.8 
-    },
-    { 
-      "id": 29, 
-      "word": "Fornecer a terceiros",
-      "topic": "",
-      "relevance": 0.9 
-    },
-    { 
-      "id": 30, 
-      "word": "Política de Dados Compartilhar informações",
-      "topic": "",
-      "relevance": 1
-    },
-    { 
-      "id": 31, 
-      "word": "Coletamos informações",
-      "topic": "",
-      "relevance": 0.9 
-    },
-    { 
-      "id": 32, 
-      "word": "Usamos informações",
-      "topic": "",
-      "relevance": 0.8 
-    },
-    { 
-      "id": 33, 
-      "word": "Repassar",
-      "topic": "",
-      "relevance": 0.7 
-    },
-    { 
-      "id": 34, 
-      "word": "Informações públicas",
-      "topic": "",
-      "relevance": 0.6 
-    },
-    { 
-      "id": 35, 
-      "word": "Impressão digital",
-      "topic": "",
-      "relevance": 0.5 
-    },
-    { 
-      "id": 36, 
-      "word": "Consentimento",
-      "topic": "",
-      "relevance": 0.4 
-    },
-    { 
-      "id": 37, 
-      "word": "Perpétua, irrevogável, transferível, isenta de royalties, e com direito a sublicenciar",
-      "topic": "",
-      "relevance": 0.3 
-    },
-    { 
-      "id": 38, 
-      "word": "Sublicenciada",
-      "topic": "",
-      "relevance": 0.2 
-    },
-    { 
-      "id": 39, 
-      "word": "Armazenar",
-      "topic": "",
-      "relevance": 0.1 
-    },
-    { 
-      "id": 40, 
-      "word": "Divulgar",
-      "topic": "",
-      "relevance": 0.2 
-    },
-    { 
-      "id": 41, 
-      "word": "Vender",
-      "topic": "",
-      "relevance": 0.3 
-    },
-    { 
-      "id": 42, 
-      "word": "Revender",
-      "topic": "",
-      "relevance": 0.4 
-    },
-    { 
-      "id": 43, 
-      "word": "A seu critério exclusivo",
-      "topic": "",
-      "relevance": 0.5 
-    },
-    { 
-      "id": 44, 
-      "word": "Royalties",
-      "topic": "",
-      "relevance": 0.6 
-    },
-    { 
-      "id": 45, 
-      "word": "Isenta",
-      "topic": "",
-      "relevance": 0.7 
-    },
-    { 
-      "id": 46, 
-      "word": "Prestador Terceiro",
-      "topic": "",
-      "relevance": 0.8 
-    },
-    { 
-      "id": 47, 
-      "word": "Licença mundial",
-      "topic": "",
-      "relevance": 0.9 
-    },
-    { 
-      "id": 48, 
-      "word": "Exclusão de informações",
-      "topic": "",
-      "relevance": 1 
-    },
-    { 
-      "id": 49, 
-      "word": "Não exclusiva",
-      "topic": "",
-      "relevance": 0.1 
-    },
-    { 
-      "id": 50, 
-      "word": "Direitos autorais",
-      "topic": "",
-      "relevance": 0.2 
-    },
-    { 
-      "id": 51, 
-      "word": "Medidas de Segurança",
-      "topic": "",
-      "relevance": 0.3 
-    },
-    { 
-      "id": 52, 
-      "word": "Outorga",
-      "topic": "",
-      "relevance": 0.4 
-    },
-    { 
-      "id": 53, 
-      "word": "Você é responsável",
-      "topic": "",
-      "relevance": 0.5 
-    },
-    { 
-      "id": 54, 
-      "word": "Atribuir",
-      "topic": "",
-      "relevance": 0.6 
-    },
-    { 
-      "id": 55, 
-      "word": "sem aviso prévio",
-      "topic": "",
-      "relevance": 0.7 
-    }
-  ]
-}
+[ {
+  "id" : 1,
+  "relevance" : 0.1,
+  "topic" : "Informação",
+  "word" : "Conteúdo"
+}, {
+  "id" : 2,
+  "relevance" : 0.2,
+  "topic" : "Informação",
+  "word" : "Configurações de anúncios"
+}, {
+  "id" : 3,
+  "relevance" : 0.1,
+  "topic" : "Informação",
+  "word" : "Foro"
+}, {
+  "id" : 4,
+  "relevance" : 0.4,
+  "topic" : "Informação",
+  "word" : "Exclusivo Proprietário"
+}, {
+  "id" : 5,
+  "relevance" : 0.6,
+  "topic" : "Condições",
+  "word" : "Sua conta e risco exclusivo"
+}, {
+  "id" : 6,
+  "relevance" : 0.8,
+  "topic" : "Condições",
+  "word" : "Você concorda que"
+}, {
+  "id" : 7,
+  "relevance" : 0.8,
+  "topic" : "Condições",
+  "word" : "Serão de sua responsabilidade"
+}, {
+  "id" : 8,
+  "relevance" : 0.3,
+  "topic" : "Condições",
+  "word" : "A qualquer momento"
+}, {
+  "id" : 9,
+  "relevance" : 0.7,
+  "topic" : "Condições",
+  "word" : "Reserva o Direito"
+}, {
+  "id" : 10,
+  "relevance" : ".8",
+  "topic" : "Condições",
+  "word" : "Aviso prévio"
+}, {
+  "id" : 11,
+  "relevance" : 0.6,
+  "topic" : "Condições",
+  "word" : "Ciente"
+}, {
+  "id" : 12,
+  "relevance" : 0.4,
+  "topic" : "Condições",
+  "word" : "Permanece"
+}, {
+  "id" : 13,
+  "relevance" : 0.7,
+  "topic" : "Condições",
+  "word" : "Conduta"
+}, {
+  "id" : 14,
+  "relevance" : 0.7,
+  "topic" : "Condições",
+  "word" : "Responsável"
+}, {
+  "id" : 15,
+  "relevance" : 0.9,
+  "topic" : "Condições",
+  "word" : "Não será responsável"
+}, {
+  "id" : 16,
+  "relevance" : 0.9,
+  "topic" : "Condições",
+  "word" : "Responderá"
+}, {
+  "id" : 17,
+  "relevance" : 0.7,
+  "topic" : "Condições",
+  "word" : "Obrigada"
+}, {
+  "id" : 18,
+  "relevance" : 1,
+  "topic" : "Pagamentos",
+  "word" : "Você reembolsará"
+}, {
+  "id" : 19,
+  "relevance" : 0.9,
+  "topic" : "Pagamentos",
+  "word" : "Taxas e encargos"
+}, {
+  "id" : 20,
+  "relevance" : 0.6,
+  "topic" : "Pagamentos",
+  "word" : "Cobrados"
+}, {
+  "id" : 21,
+  "relevance" : 0.8,
+  "topic" : "Pagamentos",
+  "word" : "Cobrança"
+}, {
+  "id" : 22,
+  "relevance" : 1,
+  "topic" : "Pagamentos",
+  "word" : "Valores adicionais"
+}, {
+  "id" : 23,
+  "relevance" : 0.9,
+  "topic" : "Pagamentos",
+  "word" : "Indenização"
+}, {
+  "id" : 24,
+  "relevance" : 0.8,
+  "topic" : "Pagamentos",
+  "word" : "Não reembolsável"
+}, {
+  "id" : 25,
+  "relevance" : 0.7,
+  "topic" : "Pagamentos",
+  "word" : "Método secundário de cobrança"
+}, {
+  "id" : 26,
+  "relevance" : 1,
+  "topic" : "Privacidade",
+  "word" : "Certificação Privacy Shield"
+}, {
+  "id" : 27,
+  "relevance" : 0.9,
+  "topic" : "Privacidade",
+  "word" : "Privacidade"
+}, {
+  "id" : 28,
+  "relevance" : 0.9,
+  "topic" : "Privacidade",
+  "word" : "Você fornece"
+}, {
+  "id" : 29,
+  "relevance" : 1,
+  "topic" : "Privacidade",
+  "word" : "Fornecer a terceiros"
+}, {
+  "id" : 30,
+  "relevance" : 1,
+  "topic" : "Privacidade",
+  "word" : "Política de Dados Compartilhar informações"
+}, {
+  "id" : 31,
+  "relevance" : 1,
+  "topic" : "Privacidade",
+  "word" : "Coletamos informações"
+}, {
+  "id" : 32,
+  "relevance" : 1,
+  "topic" : "Privacidade",
+  "word" : "Usamos informações"
+}, {
+  "id" : 33,
+  "relevance" : 0.7,
+  "topic" : "Privacidade",
+  "word" : "Repassar"
+}, {
+  "id" : 34,
+  "relevance" : 0.8,
+  "topic" : "Privacidade",
+  "word" : "Informações públicas"
+}, {
+  "id" : 35,
+  "relevance" : 0.9,
+  "topic" : "Privacidade",
+  "word" : "Impressão digital"
+}, {
+  "id" : 36,
+  "relevance" : 0.9,
+  "topic" : "Privacidade",
+  "word" : "Consentimento"
+}, {
+  "id" : 37,
+  "relevance" : 1,
+  "topic" : "Privacidade",
+  "word" : "Perpétua, irrevogável, transferível, isenta de royalties, e com direito a sublicenciar"
+}, {
+  "id" : 38,
+  "relevance" : 0.6,
+  "topic" : "Privacidade",
+  "word" : "Sublicenciada"
+}, {
+  "id" : 39,
+  "relevance" : 1,
+  "topic" : "Privacidade",
+  "word" : "Armazenar"
+}, {
+  "id" : 40,
+  "relevance" : 0.2,
+  "topic" : "Privacidade",
+  "word" : "Divulgar"
+}, {
+  "id" : 41,
+  "relevance" : 1,
+  "topic" : "Privacidade",
+  "word" : "Vender"
+}, {
+  "id" : 42,
+  "relevance" : 0.6,
+  "topic" : "Privacidade",
+  "word" : "Revender"
+}, {
+  "id" : 43,
+  "relevance" : 0.7,
+  "topic" : "Privacidade",
+  "word" : "A seu critério exclusivo"
+}, {
+  "id" : 44,
+  "relevance" : 0.6,
+  "topic" : "Privacidade",
+  "word" : "Royalties"
+}, {
+  "id" : 45,
+  "relevance" : 0.7,
+  "topic" : "Privacidade",
+  "word" : "Isenta"
+}, {
+  "id" : 46,
+  "relevance" : 0.6,
+  "topic" : "Privacidade",
+  "word" : "Prestador Terceiro"
+}, {
+  "id" : 47,
+  "relevance" : 0.7,
+  "topic" : "Privacidade",
+  "word" : "Licença mundial"
+}, {
+  "id" : 48,
+  "relevance" : 1,
+  "topic" : "Privacidade",
+  "word" : "Exclusão de informações"
+}, {
+  "id" : 49,
+  "relevance" : 0.3,
+  "topic" : "Privacidade",
+  "word" : "Não exclusiva"
+}, {
+  "id" : 50,
+  "relevance" : 0.8,
+  "topic" : "Privacidade",
+  "word" : "Direitos autorais"
+}, {
+  "id" : 51,
+  "relevance" : 0.6,
+  "topic" : "Privacidade",
+  "word" : "Medidas de Segurança"
+}, {
+  "id" : 52,
+  "relevance" : 0.8,
+  "topic" : "Privacidade",
+  "word" : "Outorga"
+}, {
+  "id" : 53,
+  "relevance" : 1,
+  "topic" : "Privacidade",
+  "word" : "Você é responsável"
+}, {
+  "id" : 54,
+  "relevance" : 0.6,
+  "topic" : "Privacidade",
+  "word" : "Atribuir"
+}, {
+  "id" : 55,
+  "relevance" : 0.7,
+  "topic" : "Privacidade",
+  "word" : "sem aviso prévio"
+} ]
