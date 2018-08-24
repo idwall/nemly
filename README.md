@@ -1,4 +1,20 @@
-<p style="text-align: center;"> Nemly </p>
+<p align="center">
+  <a href="https://wwww.idwall.co/">
+    <img src="https://idwall.co/img/favicon/ms-icon-144x144.png" alt="Bootstrap logo" width=72 height=72>
+  </a>
+
+  <h3 align="center">Nemly</h3>
+
+  <p align="center">
+    A maneira fácil de enteder os termos de uso
+    <br>
+    <a href="https://www.idwall.co"><strong>Conheça o Nemly</strong></a>
+    <br>
+  </p>
+</p>
+
+<br>
+
 
 ## Tabela de conteúdo
 
@@ -6,25 +22,19 @@
  - Desenvolvimento
  - Modo de uso
  - Criadores
+ 
+- [Introdução](#introducao)
+- [Desenvolvimento](#desenvolvimento)
+- [Modo de uso](#modo_de_uso)
+- [Criadores](#criadores)
 
 ## Introdução
 
-Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+
 
 ## Desenvolvimento
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
-
 ## Modo de uso
-
-## How to Run
-  $ npm install  # install dependencies
-# after
-
-
-## Iniciando serviço
-  $ npm run server
-> Open browser to http://localhost:4000/data
 
 ## Criadores
 
