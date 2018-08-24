@@ -18,14 +18,10 @@
 
 ## Tabela de conteúdo
 
- - Introdução
- - Desenvolvimento
- - Modo de uso
- - Criadores
- 
 - [Introdução](#introducao)
 - [Desenvolvimento](#desenvolvimento)
 - [Modo de uso](#modo_de_uso)
+- [Bugs ou novas funcionalidades](#bugs_ou_novas_funcionalidades)
 - [Criadores](#criadores)
 
 ## Introdução
@@ -34,7 +30,13 @@
 
 ## Desenvolvimento
 
+
+
 ## Modo de uso
+
+## Bug ou novas funcionalidades
+Encontrou um bug ou tem uma sugestão de novas funcionalidades? Por favor procure se já existe um issue sobre isso em [issues](https://github.com/idwall/Nemly/issues). Se o seu problema ou nova idéia ainda não foi tratada por favor abra um novo issue, [please open a new issue](https://github.com/idwall/Nemly/issues/new).
+
 
 ## Criadores
 
