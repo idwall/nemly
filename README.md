@@ -39,7 +39,7 @@ Nemly encontra palavras chaves relacionadas a privadade e proteção de dados e 
 ## Desenvolvimento
 
 ### v0.1
-Encontra palavras chaves e quantifica a
+Encontra palavras chaves e quantifica as ocorrências das mesmas no Termo de Uso que está sendo analisado.
 
 ## Modo de uso
 
