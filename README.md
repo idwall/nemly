@@ -22,6 +22,11 @@
  - Desenvolvimento
  - Modo de uso
  - Criadores
+ 
+- [Introdução](#introducao)
+- [Desenvolvimento](#desenvolvimento)
+- [Modo de uso](#modo_de_uso)
+- [Criadores](#criadores)
 
 ## Introdução
 
