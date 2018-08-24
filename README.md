@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://wwww.idwall.co/">
-    <img src="https://idwall.co/img/favicon/ms-icon-144x144.png" alt="Bootstrap logo" width=72 height=72>
+    <img src="https://idwall.co/img/favicon/ms-icon-144x144.png" alt="Nemly logo" width=72 height=72>
   </a>
 
   <h3 align="center">Nemly</h3>
@@ -35,8 +35,7 @@
 ## Modo de uso
 
 ## Bug ou novas funcionalidades
-Encontrou um bug ou tem uma sugestão de novas funcionalidades? Por favor procure se já existe um issue sobre isso em [issues](https://github.com/idwall/Nemly/issues). Se o seu problema ou nova idéia ainda não foi tratada por favor abra um novo issue, [please open a new issue](https://github.com/idwall/Nemly/issues/new).
-
+Encontrou um bug ou tem uma sugestão de novas funcionalidades? Por favor procure se já existe um issue sobre isso em [issues](https://github.com/idwall/Nemly/issues). Se o seu problema ou nova idéia ainda não foi tratada por favor [abra um novo issue](https://github.com/idwall/Nemly/issues/new).
 
 ## Criadores
 
