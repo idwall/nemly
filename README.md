@@ -17,10 +17,10 @@
 
 ## Tabela de conteúdo
 
-- [Introdução](#introducao)
+- [Introdução](#introdução)
 - [Desenvolvimento](#desenvolvimento)
-- [Modo de uso](#modo_de_uso)
-- [Bugs ou novas funcionalidades](#bugs_ou_novas_funcionalidades)
+- [Modo de uso](#modo-de-uso)
+- [Bugs ou novas funcionalidades](#bug-ou-novas-funcionalidades)
 - [Criadores](#criadores)
 
 ## Introdução
