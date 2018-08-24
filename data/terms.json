@@ -1,0 +1,279 @@
+{
+  "data": [
+    { 
+      "id": 1, 
+      "word": "Conteúdo", 
+      "topic": "" 
+    },
+    { 
+      "id": 2, 
+      "word": "Configurações de anúncios",
+      "topic": "" 
+    },
+    { 
+      "id": 3, 
+      "word": "Foro",
+      "topic": "" 
+    },
+    { 
+      "id": 4, 
+      "word": "Exclusivo Proprietário",
+      "topic": "" 
+    },
+    { 
+      "id": 5, 
+      "word": "Sua conta e risco exclusivo",
+      "topic": "" 
+    },
+    { 
+      "id": 6, 
+      "word": "Você concorda que",
+      "topic": "" 
+    },
+    { 
+      "id": 7, 
+      "word": "Serão de sua responsabilidade",
+      "topic": "" 
+    },
+    { 
+      "id": 8, 
+      "word": "A qualquer momento",
+      "topic": "" 
+    },
+    { 
+      "id": 9, 
+      "word": "Reserva o Direito",
+      "topic": "" 
+    },
+    { 
+      "id": 10, 
+      "word": "Aviso prévio",
+      "topic": "" 
+    },
+    { 
+      "id": 11, 
+      "word": "Ciente",
+      "topic": "" 
+    },
+    { 
+      "id": 12, 
+      "word": "Permanece",
+      "topic": "" 
+    },
+    { 
+      "id": 13, 
+      "word": "Conduta",
+      "topic": "" 
+    },
+    { 
+      "id": 14, 
+      "word": "Responsável",
+      "topic": "" 
+    },
+    { 
+      "id": 15, 
+      "word": "Não será responsável",
+      "topic": "" 
+    },
+    { 
+      "id": 16, 
+      "word": "Responderá",
+      "topic": "" 
+    },
+    { 
+      "id": 17, 
+      "word": "Obrigada",
+      "topic": "" 
+    },
+    { 
+      "id": 18, 
+      "word": "Você reembolsará",
+      "topic": "" 
+    },
+    { 
+      "id": 19, 
+      "word": "Taxas e encargos",
+      "topic": "" 
+    },
+    { 
+      "id": 20, 
+      "word": "Cobrados",
+      "topic": "" 
+    },
+    { 
+      "id": 21, 
+      "word": "Cobrança",
+      "topic": "" 
+    },
+    { 
+      "id": 22, 
+      "word": "Valores adicionais",
+      "topic": "" 
+    },
+    { 
+      "id": 23, 
+      "word": "Indenização",
+      "topic": "" 
+    },
+    { 
+      "id": 24, 
+      "word": "Não reembolsável",
+      "topic": "" 
+    },
+    { 
+      "id": 25, 
+      "word": "Método secundário de cobrança",
+      "topic": "" 
+    },
+    { 
+      "id": 26, 
+      "word": "Certificação Privacy Shield",
+      "topic": "" 
+    },
+    { 
+      "id": 27, 
+      "word": "Privacidade",
+      "topic": "" 
+    },
+    { 
+      "id": 28, 
+      "word": "Você fornece",
+      "topic": "" 
+    },
+    { 
+      "id": 29, 
+      "word": "Fornecer a terceiros",
+      "topic": "" 
+    },
+    { 
+      "id": 30, 
+      "word": "Política de Dados Compartilhar informações",
+      "topic": "" 
+    },
+    { 
+      "id": 31, 
+      "word": "Coletamos informações",
+      "topic": "" 
+    },
+    { 
+      "id": 32, 
+      "word": "Usamos informações",
+      "topic": "" 
+    },
+    { 
+      "id": 33, 
+      "word": "Repassar",
+      "topic": "" 
+    },
+    { 
+      "id": 34, 
+      "word": "Informações públicas",
+      "topic": "" 
+    },
+    { 
+      "id": 35, 
+      "word": "Impressão digital",
+      "topic": "" 
+    },
+    { 
+      "id": 36, 
+      "word": "Consentimento",
+      "topic": "" 
+    },
+    { 
+      "id": 37, 
+      "word": "Perpétua, irrevogável, transferível, isenta de royalties, e com direito a sublicenciar",
+      "topic": "" 
+    },
+    { 
+      "id": 38, 
+      "word": "Sublicenciada",
+      "topic": "" 
+    },
+    { 
+      "id": 39, 
+      "word": "Armazenar",
+      "topic": "" 
+    },
+    { 
+      "id": 40, 
+      "word": "Divulgar",
+      "topic": "" 
+    },
+    { 
+      "id": 41, 
+      "word": "Vender",
+      "topic": "" 
+    },
+    { 
+      "id": 42, 
+      "word": "Revender",
+      "topic": "" 
+    },
+    { 
+      "id": 43, 
+      "word": "A seu critério exclusivo",
+      "topic": "" 
+    },
+    { 
+      "id": 44, 
+      "word": "Royalties",
+      "topic": "" 
+    },
+    { 
+      "id": 45, 
+      "word": "Isenta",
+      "topic": "" 
+    },
+    { 
+      "id": 46, 
+      "word": "Prestador Terceiro",
+      "topic": "" 
+    },
+    { 
+      "id": 47, 
+      "word": "Licença mundial",
+      "topic": "" 
+    },
+    { 
+      "id": 48, 
+      "word": "Exclusão de informações",
+      "topic": "" 
+    },
+    { 
+      "id": 49, 
+      "word": "Não exclusiva",
+      "topic": "" 
+    },
+    { 
+      "id": 50, 
+      "word": "Direitos autorais",
+      "topic": "" 
+    },
+    { 
+      "id": 51, 
+      "word": "Medidas de Segurança",
+      "topic": "" 
+    },
+    { 
+      "id": 52, 
+      "word": "Outorga",
+      "topic": "" 
+    },
+    { 
+      "id": 53, 
+      "word": "Você é responsável",
+      "topic": "" 
+    },
+    { 
+      "id": 54, 
+      "word": "Atribuir",
+      "topic": "" 
+    },
+    { 
+      "id": 55, 
+      "word": "sem aviso prévio",
+      "topic": "" 
+    }
+  ]
+}
