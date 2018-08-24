@@ -25,13 +25,8 @@
 
 ## Introdução
 
-O Nemly é um plugin para Chrome que consegue ler contratos e termos de uso de um determinado serviço e apontar termos que normal
-
-por meio de uma base setada no código ela consegue verificar os termos de privacidade,
-e deixa marcado em amarelo, criando uma div para futura localização;
-
 Qual foi a ultima vez que você leu os Termos e Condições de uso de um serviço antes de começar a usá-lo? Esses termos são extremamente longos e muitas vezes complicados de entender, por isso normalmente é muito mais fácil ACEITAR sem ao menos ler.
-Nemly encontra palavras chaves relacionadas a privadade e proteção de dados e as destaca, enumera e categoriza para que você possa ler diretamente aquelas cláusulas chaves que você deveria ao menos conhecer antes de simplesmente aceitar.
+Nemly encontra palavras chaves relacionadas a privadade e proteção de dados e as destaca, enumera e categoriza para que você possa ler diretamente aquelas cláusulas chaves que você deveria ao menos conhecer antes de simplesmente aceitá-las.
 
 ## Desenvolvimento
 
