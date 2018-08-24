@@ -1,0 +1,23 @@
+{
+  "name": "nemly",
+  "version": "0.0.1",
+  "description": "por meio de uma base setada no código ela consegue verificar os termos de privacidade, e deixa marcado em amarelo, criando uma div para futura localização;",
+  "main": "background.js",
+  "scripts": {
+    "server": "json-server --watch data/db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idwall/Nemly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idwall/Nemly/issues"
+  },
+  "homepage": "https://github.com/idwall/Nemly#readme",
+  "devDependencies": {
+    "json-server": "^0.14.0"
+  }
+}
