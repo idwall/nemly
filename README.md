@@ -10,6 +10,14 @@
     <br>
     <a href="https://idwall.github.io/Nemly/"><strong>Conheça o Nemly</strong></a>
     <br>
+    <br>
+    <a href="https://github.com/idwall/Nemly/issues/new">Reportar um problema</a>
+    ·
+    <a href="https://github.com/idwall/Nemly/issues/new">Solicitar funcionalidade</a>
+    ·
+    <a href="https://blog.idwall.co/">Blog</a>
+    ·
+    <a href="https://jobs.kenoby.com/idwall">Vagas</a>
   </p>
 </p>
 
@@ -30,15 +38,16 @@ Nemly encontra palavras chaves relacionadas a privadade e proteção de dados e 
 
 ## Desenvolvimento
 
-
+### v0.1
+Encontra palavras chaves e quantifica a
 
 ## Modo de uso
 
-Abra a página dos Termos e Condições de uso que voê deseja analisar e execute o plugin diretamente no Chrome.
+Baixe e instale o plugin Nemly. Abra a página dos Termos e Condições de uso que voê deseja analisar e execute o plugin diretamente no Chrome.
 Nemly irá analisar a página e indicar os pontos de atenção.
 
 ## Bug ou novas funcionalidades
 Encontrou um bug ou tem uma sugestão de novas funcionalidades? Por favor procure se já existe um issue sobre isso em [issues](https://github.com/idwall/Nemly/issues). Se o seu problema ou nova idéia ainda não foi tratada por favor [abra um novo issue](https://github.com/idwall/Nemly/issues/new).
 
 ## Criadores
-
+A IDWall tem como missão resolver a falta de confiança e credibilidade na era digital, dando autonomia para que as empresas aceitem mais clientes, sem ocorrência de fraudes. Entre as soluções oferecidas para o mercado, estão a verificação de identidade, autenticação de documentos e KYC / AML.
