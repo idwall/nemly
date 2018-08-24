@@ -34,6 +34,9 @@ Nemly encontra palavras chaves relacionadas a privadade e proteção de dados e 
 
 ## Modo de uso
 
+Abra a página dos Termos e Condições de uso que voê deseja analisar e execute o plugin diretamente no Chrome.
+Nemly irá analisar a página e indicar os pontos de atenção.
+
 ## Bug ou novas funcionalidades
 Encontrou um bug ou tem uma sugestão de novas funcionalidades? Por favor procure se já existe um issue sobre isso em [issues](https://github.com/idwall/Nemly/issues). Se o seu problema ou nova idéia ainda não foi tratada por favor [abra um novo issue](https://github.com/idwall/Nemly/issues/new).
 
