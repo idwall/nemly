@@ -6,7 +6,7 @@
   <h3 align="center">Nemly</h3>
 
   <p align="center">
-    Antes de aceitar os termos e condições de uso de um determinado serviço, certifique-se que não está aceitando algo que você pode se arrepender futuramente.
+    Antes de aceitar os Termos e Condições de uso de um determinado serviço, certifique-se que não está aceitando algo que você pode se arrepender futuramente.
     <br>
     <a href="https://idwall.github.io/Nemly/"><strong>Conheça o Nemly</strong></a>
     <br>
