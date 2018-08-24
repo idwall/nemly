@@ -1,7 +1,8 @@
 <p align="center">
 
+  <a href="https://wwww.idwall.co/">
     <img src="https://idwall.co/img/favicon/ms-icon-144x144.png" alt="Nemly logo" width=72 height=72>
-
+  </a>
 
   <h3 align="center">Nemly</h3>
 
