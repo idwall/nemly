@@ -6,7 +6,7 @@
   <h3 align="center">Nemly</h3>
 
   <p align="center">
-    A maneira fácil de enteder os termos de uso
+    Antes de aceitar os termos e condições de uso de um determinado serviço, certifique-se que não está aceitando algo que você pode se arrepender futuramente.
     <br>
     <a href="https://www.idwall.co"><strong>Conheça o Nemly</strong></a>
     <br>
@@ -14,7 +14,6 @@
 </p>
 
 <br>
-
 
 ## Tabela de conteúdo
 
@@ -26,7 +25,10 @@
 
 ## Introdução
 
+O Nemly é um plugin para Chrome que consegue ler contratos e termos de uso de um determinado serviço e apontar termos que normal
 
+por meio de uma base setada no código ela consegue verificar os termos de privacidade,
+e deixa marcado em amarelo, criando uma div para futura localização;
 
 ## Desenvolvimento
 
@@ -39,7 +41,3 @@ Encontrou um bug ou tem uma sugestão de novas funcionalidades? Por favor procur
 
 ## Criadores
 
-# Nemly
-# V - 0.1
-por meio de uma base setada no código ela consegue verificar os termos de privacidade,
-e deixa marcado em amarelo, criando uma div para futura localização;
