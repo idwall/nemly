@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://wwww.idwall.co/">
-    <img src="https://github.com/idwall/Nemly/blob/master/.github/nemly_icon.png" alt="Nemly logo" width=100 height=100>
+    <img src="https://github.com/idwall/Nemly/blob/master/nemly_icon.png" alt="Nemly logo" width=100 height=100>
   </a>
   <h3 align="center">Nemly</h3>
   <p align="center">
