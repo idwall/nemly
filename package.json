@@ -20,7 +20,5 @@
   "devDependencies": {
     "json-server": "^0.14.0"
   },
-  "dependencies": {
-    "axios": "^0.18.0"
-  }
+  "dependencies": {}
 }
