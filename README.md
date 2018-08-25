@@ -1,23 +1,19 @@
 <p align="center">
-
   <a href="https://wwww.idwall.co/">
-    <img src="https://github.com/idwall/Nemly/blob/master/nemly_icon.png" alt="Nemly logo" width=100 height=100>
+    <img src="https://github.com/idwall/Nemly/blob/master/.github/nemly_icon.png" alt="Nemly logo" width=100 height=100>
   </a>
-
   <h3 align="center">Nemly</h3>
-
   <p align="center">
     Antes de aceitar os Termos e Condições de uso de um determinado serviço, certifique-se que não está aceitando algo que você pode se arrepender futuramente.
     <br>
-    <a href="https://idwall.github.io/Nemly/"><strong>Conheça o Nemly</strong></a>
+    <a href="https://idwall.github.io/Nemly/">
+      <strong>Conheça o Nemly</strong>
+    </a>
     <br>
     <br>
     <a href="https://github.com/idwall/Nemly/issues/new">Reportar um problema</a>
-    ·
     <a href="https://github.com/idwall/Nemly/issues/new">Solicitar funcionalidade</a>
-    ·
     <a href="https://blog.idwall.co/">Blog</a>
-    ·
     <a href="https://jobs.kenoby.com/idwall">Vagas</a>
   </p>
 </p>
