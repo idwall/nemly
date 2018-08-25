@@ -1,17 +1,14 @@
-/*
-*manifesto, onde ficam localizadas todas as permições de acesso
-*além do nome da extenssão e do seu icone*/
 {
-   "name": "Nemly",
-   "version": "0.1",
-   "description": "Leitor de termos de contrato",
-   "permissions": ["activeTab","declarativeContent","storage"],
-   "background": {
-     "scripts": ["background.js"]
-   },
-   "page_action": {
-      "default_title": "NemLy",
-      "default_popup": "popup.html"
-    },
-   "manifest_version": 2
+  "name": "Nemly",
+  "manifest_version": 2,
+  "version": "0.1",
+  "description": "Leitor de termos de contrato",
+  "permissions": ["activeTab", "declarativeContent", "storage"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "page_action": {
+    "default_title": "NemLy",
+    "default_popup": "popup.html"
+  }
  }
