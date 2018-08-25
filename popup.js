@@ -1,11 +1,7 @@
-/*
-*chamada dos aquivos e do javascript
-*/
-  search.onclick = function(element) {
-    //let color = element.target.value;
-      chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
-      chrome.tabs.executeScript({
-        file: 'verifica.js'
-      });
-    });
-  };
+'use strict';
+
+search.onclick = () => {
+  chrome.tabs.query({ active: true, currentWindow: true }, tabs => {
+    chrome.tabs.executeScript({ file: 'check.js' });
+  });
+};
