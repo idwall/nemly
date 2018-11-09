@@ -32,9 +32,8 @@ fetch(url).then((response) => {
     res.map(({ word, id, relevance }) => {
       const selected = (relevance >= 0 && relevance <= 1) ? (relevance * 10) : 0;
       const colorhex = colors[selected];
+
       document.body.innerHTML = document.body.innerHTML.split(word).join(template(id, word, colorhex));
     });
-
-    chrome.runtime.sendMessage(`Foram encontradas ${res.length} correspondências`);
   });
 }).catch(err => console.error(err));
