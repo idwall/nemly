@@ -1,6 +1,6 @@
 'use strict';
 
-const url = 'https://jsonblob.com/api/jsonblob/89eb069b-a7cf-11e8-bac7-e1d00cd5aa77';
+const url = 'https://nemly-json.now.sh';
 
 const colors = [
   '#ffc300',
